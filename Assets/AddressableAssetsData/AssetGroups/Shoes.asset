@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shoes
+  m_EditorClassIdentifier: 
+  m_GroupName: Shoes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: db31034a3a7a0b249ab1a37b53c86f16
+  m_SerializeEntries:
+  - m_GUID: e185343fc71e97f4f81bb46d29f1ba04
+    m_Address: shoesC43
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoesc43
+  - m_GUID: 4f39f96c293f2e043b09a62de361bc47
+    m_Address: shoesC44
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoesc44
+  - m_GUID: ca159d6452b99a64e96642c1396e10a5
+    m_Address: shoesC48
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoesc48
+  - m_GUID: d0e192ce7ef3a2f44aa36480853c2e48
+    m_Address: shoesC49
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoesc49
+  - m_GUID: 10eed979ee6810d4e99275aeca493b0a
+    m_Address: shoesC52
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoesc52
+  - m_GUID: da04f630e9c05cb45b82d4bf90f5634f
+    m_Address: ShoseC1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoes1
+    - shosec1
+  - m_GUID: 07d4a14312b9b3c47908fda13caedb1a
+    m_Address: ShoseC2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec2
+    - shoes2
+  - m_GUID: b95ac1733703a22459862487e1eb58bc
+    m_Address: ShoseC3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec3
+    - shoes3
+  - m_GUID: d89563de3711f0f46991f5448867f6f1
+    m_Address: ShoseC4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec4
+    - shoes4
+  - m_GUID: 74a999122fea27a4592ac815278aaee0
+    m_Address: ShoseC5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec5
+    - shoes5
+  - m_GUID: e6de17b70f26cdf49b0596d2928b5c9b
+    m_Address: ShoseC6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec6
+    - shoes6
+  - m_GUID: 8876b8a796e49764782f919495f1f9e2
+    m_Address: ShoseC7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec7
+    - shoes7
+  - m_GUID: 1fd261df0c16cf441b1b7eb5435297f5
+    m_Address: ShoseC8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec8
+    - shoes8
+  - m_GUID: 00ca55f1352657041a98ef6c5842f566
+    m_Address: ShoseC9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec9
+    - shoes9
+  - m_GUID: c6b3d7f741b87f847896ab3e4475196d
+    m_Address: ShoseC10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec10
+    - shoes10
+  - m_GUID: 762b2fa04b2b7aa489e1cf5733532fae
+    m_Address: ShoseC11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec11
+    - shoes11
+  - m_GUID: 536de2536350ca54dad7141ede307636
+    m_Address: ShoseC12
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec12
+    - shoes12
+  - m_GUID: 02ac1ddcbcf4167458fdca33db93ae1d
+    m_Address: ShoseC13
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shosec13
+    - shoes13
+  - m_GUID: d949fc663b373f24997a28109b01b6dd
+    m_Address: ShoseC14
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoes14
+    - shosec14
+  - m_GUID: 63a82de5711651e45bacf8e155b1dfd5
+    m_Address: shoesC056
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoesc056
+  - m_GUID: 48831c5f72e6c3640907681264aa8f0e
+    m_Address: rioDjShoes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - riodjshoes
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ec07f1ddbc2987b4ebb55ed186feac66, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 13a14434e56cf3344b03a4433a5b9f45, type: 2}
+    - {fileID: 11400000, guid: b8870a0de3cb9ec46ab9deb7767b7e28, type: 2}

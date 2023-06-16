@@ -1,0 +1,6 @@
+interface IDesktopControls 
+{
+   
+  void Controls(){ }
+
+}

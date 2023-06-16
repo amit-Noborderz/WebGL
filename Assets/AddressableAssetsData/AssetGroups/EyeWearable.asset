@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EyeWearable
+  m_EditorClassIdentifier: 
+  m_GroupName: EyeWearable
+  m_Data:
+    m_SerializedData: []
+  m_GUID: eb46ba7b37d633d4897feb6922839173
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ec07f1ddbc2987b4ebb55ed186feac66, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f35a20a60a8a926409f83703cfd21107, type: 2}
+    - {fileID: 11400000, guid: 6f056f4a3a479f746821b450418d3674, type: 2}

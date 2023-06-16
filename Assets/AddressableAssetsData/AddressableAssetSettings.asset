@@ -1,0 +1,882 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 3c2ea5ab7870f914d8788b7c8397c898
+  m_CachedHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 1
+  m_BundleLocalCatalog: 0
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_NonRecursiveBuilding: 1
+  m_CCDEnabled: 0
+  m_maxConcurrentWebRequests: 500
+  m_ContiguousBundles: 1
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_ShaderBundleNaming: 0
+  m_ShaderBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: 12bc06c1c80a6314985261fad2ab896a
+  m_RemoteCatalogLoadPath:
+    m_Id: 45242721da6df534ba9359d0ff369b54
+  m_ContentStateBuildPath: 
+  m_BuildAddressablesWithPlayerBuild: 0
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 50a5dfa756d1bcb4ea8df3c0731c2b3b, type: 2}
+  - {fileID: 11400000, guid: af3bf5c0413b7b24a9b5a10d1db8176b, type: 2}
+  - {fileID: 11400000, guid: ee978c03947c77447a7a76d0712c9f0b, type: 2}
+  - {fileID: 11400000, guid: bb8e6ebcbb5f3a646bbed5fcb5b03177, type: 2}
+  - {fileID: 11400000, guid: f5772cc17ff766344ae63522b38af297, type: 2}
+  - {fileID: 11400000, guid: d15a5702760c4f44dbec26b079768e9f, type: 2}
+  - {fileID: 11400000, guid: 3a399504f4612174e99def33b732a7be, type: 2}
+  - {fileID: 11400000, guid: 8ab9200fd2f85514f880010fc83d4665, type: 2}
+  - {fileID: 11400000, guid: f65b9b73329f59349846a9d25dc0ef25, type: 2}
+  - {fileID: 11400000, guid: 24359f4664ffd7a468015138b0a761b8, type: 2}
+  - {fileID: 11400000, guid: 449c27a042df15d4ba77cc11934f108d, type: 2}
+  - {fileID: 11400000, guid: 38c7b12f8bcaf234c970cb2ba790e301, type: 2}
+  - {fileID: 11400000, guid: fc19ed5eb45296a4f8a45345b8d59af2, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 74d8aeb8b0f03a24a9467cb37eff89a3
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 0c190dc1613e3554388efb77b0201ab4
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 036243f99103b0343836ed8cb0298aeb
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: d7bbcfb182f7e2b47bbcfb576d3bcd4b
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 12bc06c1c80a6314985261fad2ab896a
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 45242721da6df534ba9359d0ff369b54
+        m_Value: https://d1jvba0nvm6tne.cloudfront.net/Xana_22.12.16-Mainnet/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: 811e2d0603f056347bbdab8bd5bec9a7
+      m_ProfileName: ' AWS Test Net'
+      m_Values:
+      - m_Id: 0c190dc1613e3554388efb77b0201ab4
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 036243f99103b0343836ed8cb0298aeb
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: d7bbcfb182f7e2b47bbcfb576d3bcd4b
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 12bc06c1c80a6314985261fad2ab896a
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 45242721da6df534ba9359d0ff369b54
+        m_Value: https://d1jvba0nvm6tne.cloudfront.net/Xana_WebGl_Testnet_OptimizedBundles/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: a9daa297b1cb7394d86e42a9a3c72ccb
+      m_ProfileName: AWS Main Net
+      m_Values:
+      - m_Id: 0c190dc1613e3554388efb77b0201ab4
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 036243f99103b0343836ed8cb0298aeb
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: d7bbcfb182f7e2b47bbcfb576d3bcd4b
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 12bc06c1c80a6314985261fad2ab896a
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 45242721da6df534ba9359d0ff369b54
+        m_Value: https://d1jvba0nvm6tne.cloudfront.net/Xana_22.12.16-Mainnet/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: 0c190dc1613e3554388efb77b0201ab4
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 036243f99103b0343836ed8cb0298aeb
+      m_Name: Local.BuildPath
+      m_InlineUsage: 0
+    - m_Id: d7bbcfb182f7e2b47bbcfb576d3bcd4b
+      m_Name: Local.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 12bc06c1c80a6314985261fad2ab896a
+      m_Name: Remote.BuildPath
+      m_InlineUsage: 0
+    - m_Id: 45242721da6df534ba9359d0ff369b54
+      m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - boyc22pants
+    - boyc5pants
+    - boyc6pants
+    - boyc17pants
+    - boyc3pants
+    - boyc4pants
+    - boyc7pants
+    - boyc040pants
+    - staffshirt
+    - girlc23shirt
+    - girlc24pants
+    - girlc23pants
+    - girlc20pants
+    - boyc2pants
+    - boyc19pants
+    - boyc8pants
+    - boyc18pants
+    - girlc21pants
+    - girlc15pants
+    - girlc10pants
+    - girlc4pants
+    - girlc16pants
+    - girlc14pants
+    - girlc13pants
+    - girlc12pants
+    - girlc11pants
+    - girlc9pants
+    - girlc8pants
+    - girlc7pants
+    - girlc5pants
+    - girlc3pants
+    - girlc2pants
+    - boyc16pants
+    - girlc1pants
+    - boyc14pants
+    - boyc13pants
+    - boyc12pants
+    - boyc11pants
+    - boyc10pants
+    - boyc9pants
+    - boyc1pants
+    - shoesc48
+    - shoesc056
+    - shoesc52
+    - shoesc49
+    - shosec13
+    - shosec12
+    - shosec11
+    - shosec10
+    - shosec9
+    - shosec8
+    - shosec7
+    - shosec6
+    - shosec5
+    - shosec4
+    - shosec3
+    - shosec2
+    - shosec1
+    - boyc028hair
+    - girlc32hair
+    - girlc58hair
+    - girlc57hair
+    - girlc56hair
+    - girlc55hair
+    - girlc54hair
+    - girlc53hair
+    - girlc52hair
+    - girlc48hair
+    - girlc46hair
+    - girlc42hair
+    - girlc41hair
+    - girlc37hair
+    - girlc36hair
+    - girlc35hair
+    - girlc34hair
+    - girlc33hair
+    - girlc29hair
+    - girlc17hair
+    - girlc16hair
+    - girlc15hair
+    - girlc14hair
+    - girlc13hair
+    - girlc12hair
+    - girlc11hair
+    - girlc10hair
+    - girlc9hair
+    - girlc8hair
+    - girlc7hair
+    - girlc6hair
+    - girlc4hair
+    - girlc3hair
+    - girlc2hair
+    - girlc1hair
+    - boyc21hair
+    - boyc20hair
+    - boyc19hair
+    - boyc18hair
+    - boyc17hair
+    - boyc16hair
+    - boyc15hair
+    - boyc14hair
+    - boyc13hair
+    - boyc12hair
+    - boyc11hair
+    - boyc9hair
+    - boyc8hair
+    - boyc7hair
+    - boyc6hair
+    - boyc20pants
+    - Mount Fuji
+    - Hallway
+    - City Yard
+    - City Market
+    - City Life
+    - City Night
+    - Beach
+    - Pool Side
+    - Reflection Room
+    - Xana World
+    - boyc21pants
+    - girlc24hair
+    - shoesc43
+    - shoesc44
+    - shosec14
+    - girlc5hair
+    - shoes1
+    - shoes2
+    - shoes3
+    - shoes4
+    - shoes5
+    - shoes6
+    - shoes7
+    - shoes8
+    - shoes9
+    - shoes10
+    - shoes11
+    - shoes12
+    - shoes13
+    - shoes14
+    - girlc19shirt
+    - girlc4shirt
+    - boyc14shirt
+    - boyc11shirt
+    - boyc10shirt
+    - boyc17shirt
+    - boyc18shirt
+    - girlc21shirt
+    - girlc15shirt
+    - girlc10shirt
+    - boyc8shirt
+    - boyc4shirt
+    - girlc24shirt
+    - girlc16shirt
+    - girlc13shirt
+    - girlc12shirt
+    - girlc11shirt
+    - girlc9shirt
+    - girlc8shirt
+    - girlc7shirt
+    - girlc6shirt
+    - girlc5shirt
+    - girlc3shirt
+    - girlc2shirt
+    - girlc1shirt
+    - boyc22shirt
+    - boyc21shirt
+    - boyc20shirt
+    - boyc19shirt
+    - boyc16shirt
+    - boyc15shirt
+    - boyc13shirt
+    - boyc12shirt
+    - boyc9shirt
+    - boyc3shirt
+    - boyc2shirt
+    - boyc1shirt
+    - Classroom
+    - Crypto Ninja village
+    - DJ Event
+    - XANA Festival Stage
+    - Award Ceremony
+    - Day Sword
+    - Sci-Fi Basketball Court
+    - boyc5hair
+    - boyc2hair
+    - boyc4hair
+    - boyc1hair
+    - girlc45hair
+    - girlc38hair
+    - HOKUSAI KATSUSHIKA
+    - META GALLERY
+    - THE RHETORIC STAR
+    - YUKINORI TOKORO
+    - "ROCK\u2019N ROLL CIRCUS"
+    - MASAMI TANAKA
+    - Wish-Fountain
+    - boyc15pants
+    - arabic male costume
+    - arabic female costume
+    - "TIF2021 AfterParty \xD7 XANA"
+    - GOZAnimator Haruna Gouzu Gallery 2021
+    - eye_variation4
+    - eye_variation10
+    - eye_variation39
+    - eye_variation3
+    - eye_variation36
+    - eye_variation38
+    - eye_variation33
+    - eye_variation35
+    - eye_variation16
+    - eye_variation19
+    - eye_variation32
+    - eye_variation29
+    - eye_variation28
+    - eye_variation26
+    - eye_variation1
+    - eye_variation5
+    - eye_variation7
+    - eye_variation2
+    - eye_variation11
+    - eye_variation12
+    - eye_variation13
+    - eye_variation14
+    - eye_variation15
+    - eye_variation6
+    - eye_variation17
+    - eye_variation18
+    - eye_variation8
+    - eye_variation20
+    - eye_variation21
+    - eye_variation22
+    - eye_variation23
+    - eye_variation24
+    - eye_variation25
+    - eye_variation9
+    - eye_variation27
+    - eye_variation30
+    - eye_variation31
+    - eye_variation34
+    - eye_variation37
+    - eye_variation40
+    - eye_variation41
+    - eye_variation42
+    - eye_variation43
+    - eye_variation44
+    - eye_variation45
+    - eye_variation46
+    - eye_variation47
+    - eye_variation48
+    - eye_variation49
+    - eye_variation50
+    - eye_variation51
+    - eye_variation52
+    - eye_variation53
+    - eye_variation54
+    - eye_variation55
+    - eye_variation56
+    - eye_variation57
+    - eye_variation58
+    - eye_variation59
+    - eye_variation60
+    - eye_variation61
+    - eye_variation62
+    - eye_variation63
+    - eye_variation64
+    - eye_variation65
+    - eye_variation66
+    - eye_variation67
+    - eye_variation68
+    - eye_variation69
+    - eye_variation70
+    - Xana 2.0_Xana_Eyes_mat_BaseColor
+    - xana 2.0_xana_eyes_mat_basecolor
+    - xana_eye_default
+    - XANA Festival Stage in Dubai.
+    - nulllashes
+    - malelashes
+    - femalelashes
+    - makeup
+    - nomakeup
+    - Koto-ku Virtual Exhibition
+    - staff
+    - Girl_H_027
+    - Girl_H_066
+    - Girl_H_038
+    - Girl_H_045
+    - Girl_H_046
+    - Girl_H_002
+    - Girl_H_065
+    - Girl_H_060
+    - Girl_H_033
+    - Girl_H_032
+    - Girl_H_008
+    - Girl_H_048
+    - Girl_H_040
+    - Girl_H_017
+    - Girl_H_044
+    - Girl_H_042
+    - girl_h_066
+    - girl_h_027
+    - girl_h_038
+    - girl_h_045
+    - girl_h_046
+    - girl_h_002
+    - girl_h_065
+    - girl_h_060
+    - girl_h_033
+    - girl_h_032
+    - girl_h_008
+    - girl_h_048
+    - girl_h_040
+    - girl_h_017
+    - girl_h_044
+    - girl_h_042
+    - girl_h_028
+    - girl_h_057
+    - girl_h_047
+    - girl_h_001
+    - boy_h_003
+    - girl_h_010
+    - girl_h_029
+    - girl_h_030
+    - girl_h_035
+    - girl_h_018
+    - girl_h_056
+    - girl_h_059
+    - girl_h_037
+    - girl_h_034
+    - girl_h_036
+    - girl_h_050
+    - girl_h_049
+    - girl_h_051
+    - girl_h_055
+    - girl_h_052
+    - boy_h_028
+    - boy_h_022
+    - girl_h_039
+    - girl_h_043
+    - girl_h_041
+    - girl_h_062
+    - girlh062
+    - girlh041
+    - girlh043
+    - girlh039
+    - boylh022
+    - boyh028
+    - girlh052
+    - girlh055
+    - girlh051
+    - girlh049
+    - girlh050
+    - girlh036
+    - girlh034
+    - girlh037
+    - girlh059
+    - girlh056
+    - girlh018
+    - girlh035
+    - girlh030
+    - girlh029
+    - girlh010
+    - boyh003
+    - girlh001
+    - girlh047
+    - girlh057
+    - girlh028
+    - girlh042
+    - girlh044
+    - girlh017
+    - girlh040
+    - girlh048
+    - girlh008
+    - girlh032
+    - girlh033
+    - girlh060
+    - girlh065
+    - girlh002
+    - girlh046
+    - girlh045
+    - girlh038
+    - girlh066
+    - girlh027
+    - boyh022
+    - boy5hair
+    - boyh005
+    - boyh006
+    - girlh100
+    - girlh103
+    - girlh089
+    - Item
+    - boyc28hair
+    - Xana Festival
+    - eyebrow_1
+    - eyebrow_2
+    - eyebrow_3
+    - eyebrow_4
+    - eyebrow_5
+    - eyebrow_6
+    - eyebrow_7
+    - eyebrow_8
+    - eyebrow_9
+    - eyebrow_10
+    - eyebrow_11
+    - eyebrow_12
+    - eyebrow_13
+    - eyebrow_14
+    - eyebrow_15
+    - eyebrow_16
+    - eyebrow_17
+    - eyebrow_18
+    - eyebrow_19
+    - eyebrow_20
+    - eyebrow_21
+    - eyebrow_22
+    - eyebrow_23
+    - eyebrow_24
+    - eyebrow_25
+    - eyebrow_26
+    - eyebrow_27
+    - eyebrow_28
+    - eyebrow_29
+    - eyebrow_30
+    - eyebrow_31
+    - eyebrow_32
+    - eyebrow_33
+    - eyebrow_34
+    - eyebrow_35
+    - eyebrow_36
+    - eyebrow_37
+    - eyebrow_38
+    - eyebrow_39
+    - eyebrow_40
+    - eyebrow_41
+    - eyebrow_42
+    - eyebrow_43
+    - eyebrow_44
+    - eyebrow_45
+    - eyebrow_46
+    - eyebrow_47
+    - eyebrow_48
+    - eyebrow_49
+    - eyebrow_50
+    - eyebrow_51
+    - eyebrow_52
+    - eyebrow_53
+    - eyebrow_54
+    - eyebrow_55
+    - eyebrow_56
+    - eyelash_1
+    - eyelash_2
+    - eyelash_3
+    - eyelash_4
+    - eyelash_5
+    - eyelash_6
+    - eyelash_7
+    - eyelash_8
+    - eyelash_9
+    - eyelash_10
+    - eyelash_11
+    - eyelash_12
+    - eyelash_13
+    - eyelash_14
+    - eyelash_15
+    - eyelash_16
+    - eyelash_17
+    - eyelash_18
+    - eyelash_19
+    - eyelash_20
+    - eyelash_21
+    - eyelash_22
+    - eyelash_23
+    - eyelash_24
+    - eyelash_25
+    - eyelash_26
+    - eyelash_27
+    - eyelash_28
+    - eyelash_29
+    - eyelash_30
+    - eyelash_31
+    - eyelash_32
+    - eyelash_33
+    - eyelash_34
+    - eyelash_35
+    - eyelash_36
+    - riohair
+    - boyh094
+    - riodjshoes
+    - riodjpant
+    - boyc137pent
+    - riolense
+    - rioeyelashes
+    - governermakeup
+    - riomakeup
+    - governerbrow
+    - brow
+    - eye_brow
+    - riobrow
+    - glasses026
+    - boyc112shirt
+    - riodjcoat
+    - boy5hairold
+    - boyc57pant
+    - Genesis ART Metaverse Museum
+    - boyc057pants
+    - boyc058pants
+    - boyc059pants
+    - boyc060pants
+    - boyc061pants
+    - boyc067pants
+    - boyc068pants
+    - boyc069pants
+    - boyc070pants
+    - boyc071pants
+    - boyc072pants
+    - boyc073pants
+    - boyc074pants
+    - boyc075pants
+    - boyc076pants
+    - boyc077pants
+    - boyc078pants
+    - boyc079pants
+    - boyc080pants
+    - boyc081pants
+    - boyc082pants
+    - boyc084pants
+    - boyc085pants
+    - boyc086pants
+    - boyc088pants
+    - boyc089pants
+    - boyc090pants
+    - boyc091pants
+    - boyc092pants
+    - boyc093pants
+    - boyc094pants
+    - boyc095pants
+    - boyc096pants
+    - boyc097pants
+    - boyc098pants
+    - boyc099pants
+    - boyc100pants
+    - boyc102pants
+    - boyc103pants
+    - boyc104pants
+    - boyc105pants
+    - boyc106pants
+    - boyc109pants
+    - boyc131pants
+    - girl053pant
+    - girl055pant
+    - girl056pant
+    - girl057pant
+    - girl059pant
+    - girl060pant
+    - girl061pant
+    - girl063pant
+    - girl064pant
+    - girl065pant
+    - girl066pant
+    - girl067pant
+    - girl068pant
+    - girl069pant
+    - girl070pant
+    - girl071pant
+    - girl072pant
+    - girl073pant
+    - girl075pant
+    - girl076pant
+    - girl077pant
+    - girl078pant
+    - girl079pant
+    - girl080pant
+    - girl081pant
+    - girl082pant
+    - girl083pant
+    - girl084pant
+    - girl085pant
+    - girl086pant
+    - girl087pant
+    - girl088pant
+    - girl089pant
+    - girl090pant
+    - girl091pant
+    - girl094pant
+    - girl096pant
+    - girl097pant
+    - girl098pant
+    - girl099pant
+    - girl101pant
+    - girl102pant
+    - girl103pant
+    - girl104pant
+    - girl151pant
+    - girl105pant
+    - boyc104shirt
+    - boyc103shirt
+    - boyc102shirt
+    - boyc101shirt
+    - boyc100shirt
+    - boyc099shirt
+    - boyc098shirt
+    - boyc094shirt
+    - boyc093shirt
+    - boyc092shirt
+    - boyc091shirt
+    - boyc090shirt
+    - boyc089shirt
+    - boyc088shirt
+    - boyc087shirt
+    - boyc085shirt
+    - boyc084shirt
+    - boyc083shirt
+    - boyc082shirt
+    - boyc081shirt
+    - boyc080shirt
+    - boyc079shirt
+    - boyc078shirt
+    - boyc076shirt
+    - boyc075shirt
+    - boyc074shirt
+    - boyc073shirt
+    - boyc072shirt
+    - boyc071shirt
+    - boyc070shirt
+    - boyc069shirt
+    - boyc067shirt
+    - boyc065shirt
+    - boyc064shirt
+    - boyc063shirt
+    - boyc062shirt
+    - boyc061shirt
+    - boyc060shirt
+    - boyc059shirt
+    - boyc057shirt
+    - boyc056shirt
+    - boyc055shirt
+    - boyc053shirt
+    - boyc052shirt
+    - boyc051shirt
+    - boyc49shirt
+    - boyc48shirt
+    - girl081shirt
+    - girl082shirt
+    - girl108shirt
+    - girl107shirt
+    - girl092shirt
+    - girl085shirt
+    - girl089shirt
+    - girl080shirt
+    - girl084shirt
+    - girl057shirt
+    - girl078shirt
+    - girl061shirt
+    - girl073shirt
+    - girl069shirt
+    - girl050shirt
+    - girl062shirt
+    - girl054shirt
+    - girl100shirt
+    - girl099shirt
+    - girl094shirt
+    - girl101shirt
+    - girl097shirt
+    - girl091shirt
+    - girl104shirt
+    - girl093shirt
+    - girl083shirt
+    - girl090shirt
+    - girl088shirt
+    - girl103shirt
+    - girl102shirt
+    - girl086shirt
+    - girl087shirt
+    - girl109shirt
+    - girl075shirt
+    - girl064shirt
+    - girl060shirt
+    - girl098shirt
+    - girl051shirt
+    - girl070shirt
+    - girl074shirt
+    - girl065shirt
+    - girl063shirt
+    - girl059shirt
+    - girl067shirt
+    - girl072shirt
+    - girl079shirt
+    - girl058shirt
+    - girl049shirt
+    - girl071shirt
+    - girl066shirt
+    - girl076shirt
+    - girl056shirt
+    - girl068shirt
+    - girl077shirt
+    - girl055shirt
+    - girl105shirt
+    - NFTDuel Tournament
+    - Astroboy x Tottori Metaverse Museum
+    - boyh101
+    - boyh104
+    - boyh100
+    - boyh103
+    - boyh102
+    - girlh122
+    - girlh123
+    - girlh128
+    - girlh124
+    - girlh126
+    - girlh125
+    - girlh127
+    - DEEMO THE MOVIE Metaverse Museum
+    - J&J WORLD_1
+    - J&J WORLD_2
+    - J&J WORLD_3
+    - J&J WORLD_4
+    - J&J WORLD_5
+    - BreakingDown Arena
+    - GoldenSky
+    - DaySky
+    - DaySky02
+    - DaySky03
+    - DaySky04
+    - CloudySky
+    - CloudySky02
+    - CloudySky03
+    - CloudySky04
+    - CloudySky05
+    - SunnySky
+    - StormySky
+    - DuskSky
+    - DuskSky02
+    - DuskSky03
+    - NightSky
+    - NightSky02
+    - NightSky03
+    - NightSky04
+    - DarkSky
+    - NoMoonSky
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 8474e169014551445860f5ae6de30c8f, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 71e82f6745e8e774baa0c5768212361e, type: 2}
+  - {fileID: 11400000, guid: c26548b893bc073468a4b2f561b1435a, type: 2}
+  - {fileID: 11400000, guid: 0fcc3d1466d260b4380570539b4a7dcd, type: 2}
+  - {fileID: 11400000, guid: d912f9ef947778b4380461fca2c08066, type: 2}
+  m_ActiveProfileId: 811e2d0603f056347bbdab8bd5bec9a7
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []

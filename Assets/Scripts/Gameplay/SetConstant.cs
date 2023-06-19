@@ -32,7 +32,7 @@ public class SetConstant : MonoBehaviour
 
         // XanaConstants.xanaConstants.isBuilderScene = true;
         yield return new WaitForSeconds(.05f);
-         GetToken();
+         //GetToken();
     }
 
     public IEnumerator JavaScriptToken(string objects)

@@ -14,12 +14,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.unity.assetbundlebrowser": {
-      "version": "file:C:/Users/I7/Downloads/AssetBundles-Browser-master/AssetBundles-Browser-master",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.unity.burst": {
       "version": "1.6.5",
       "depth": 1,
